@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="Umbra:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Umbra_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Umbra.jar">
+        <element id="module-output" name="Umbra" />
+      </element>
+      <element id="library" level="project" name="RetroEngine" />
+      <element id="library" level="project" name="gluegen-rt" />
+    </root>
+  </artifact>
+</component>

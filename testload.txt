@@ -1,0 +1,5 @@
+Files/
+IMAGE|alphabet.png|alphabet
+IMAGE|ui/daynightwheel.png|dnwheel
+IMAGE|abilities/swipeattack.png|swipeattack
+IMAGE|ui/hotbarslot.png|hotbarslot
